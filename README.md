@@ -2,7 +2,7 @@
 
 I build and run my own infrastructure, then write the tools and documentation to keep it healthy. I'm looking for systems administration, infrastructure engineering and agentic AI roles.
 
-📫 [james@hufflabs.dev](mailto:james@hufflabs.dev)
+🌐 [hufflabs.dev](https://hufflabs.dev) · 📫 [james@hufflabs.dev](mailto:james@hufflabs.dev)
 
 ## HuffLabs, my homelab
 
