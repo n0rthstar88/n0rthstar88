@@ -23,11 +23,11 @@ A self-hosted environment I designed, secured and run day to day.
 
 - [Homelab On-Call Agent](https://github.com/n0rthstar88/homelab-oncall-agent): self-healing monitoring for Proxmox and Checkmk, with AI triage behind a security gatekeeper
 
-  <a href="assets/projects/oncall-triage.webp"><img align="top" src="assets/projects/oncall-triage.webp" width="480" alt="On-call agent triage report in Discord, host names blacked out"></a>
+  <a href="assets/projects/oncall-triage.webp"><img align="top" src="assets/projects/oncall-triage.webp" width="480" alt="On-call agent triage report in Discord, with example host names"></a>
 
 - [Homelab Watchdog](https://github.com/n0rthstar88/homelab-watchdog): security and availability monitor with change-based Discord alerts and commands, in plain Python
 
-  <a href="assets/projects/watchdog-alert.webp"><img align="top" src="assets/projects/watchdog-alert.webp" width="420" alt="Watchdog alerts in Discord, host names blacked out"></a>
+  <a href="assets/projects/watchdog-alert.webp"><img align="top" src="assets/projects/watchdog-alert.webp" width="420" alt="Watchdog alerts in Discord, with example host names and addresses"></a>
   <br><a href="assets/projects/watchdog-ping.webp"><img align="top" src="assets/projects/watchdog-ping.webp" width="760" alt="Watchdog answering a ping command in Discord"></a>
 
 - [HuffLabs RO](https://github.com/n0rthstar88/hufflabs-ro): a private game server for friends, reachable only over Tailscale, with an invite-only sign-up site, Windows and Linux installers, and a self-updating launcher that verifies signed updates. In Go, tested on Linux and Windows in GitHub Actions, with versioned releases
