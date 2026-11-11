@@ -46,3 +46,7 @@ A self-hosted environment I designed, secured and run day to day.
   <a href="assets/projects/snap-snapped.webp"><img align="top" src="assets/projects/snap-snapped.webp" width="370" alt="Windows snapped into a three-pane layout"></a>
 
 - [Dark Magic](https://github.com/gravestench/dark-magic/pulls?q=is%3Apr+is%3Amerged+author%3An0rthstar88): 18 merged pull requests to an open-source Diablo II engine in Go and Lua
+
+  <a href="assets/projects/darkmagic-code.webp"><img align="top" src="assets/projects/darkmagic-code.webp" width="370" alt="Dark Magic Lua code under the project's candle logo: kill experience scaled by level difference"></a>
+  <a href="assets/projects/darkmagic-prs.webp"><img align="top" src="assets/projects/darkmagic-prs.webp" width="370" alt="18 merged pull requests in the Dark Magic repository, each passing CI"></a>
+
