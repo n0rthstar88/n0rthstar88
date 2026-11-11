@@ -19,6 +19,20 @@ A self-hosted environment I designed, secured and run day to day.
 | Automation | Python, Bash, Lua, Go, systemd |
 | Operations | Runbooks, incident write-ups and disaster recovery documentation |
 
+Almost all of it runs on one GMKtec M6 Ultra mini PC (Ryzen 5 7640HS, 64 GB DDR5) in a 22U rack. Nothing on my home network is open to the internet: public sites come in through Cloudflare Tunnels, and I reach everything else over Tailscale.
+
+<a href="assets/homelab/rack.webp"><img src="assets/homelab/rack.webp" width="600" alt="Diagram of the 22U rack: the Cisco 2960-X going live next, open space, the mini PC, a planned second server and UPS, and the storage shelf"></a>
+
+<a href="assets/homelab/m6.webp"><img src="assets/homelab/m6.webp" width="806" alt="Diagram of the mini PC: traffic enters through Cloudflare Tunnels or Tailscale, and inside Proxmox are network, storage, app and monitoring services"></a>
+
+<a href="assets/homelab/proxmox-guests.webp"><img src="assets/homelab/proxmox-guests.webp" width="806" alt="Proxmox guest list: ten containers and two VMs, each tagged by role"></a>
+
+<a href="assets/homelab/checkmk-dashboard.webp"><img src="assets/homelab/checkmk-dashboard.webp" width="806" alt="Checkmk dashboard with graphs for the host, key services and the router"></a>
+
+<a href="assets/homelab/dns-dashboard.webp"><img src="assets/homelab/dns-dashboard.webp" width="806" alt="Technitium DNS dashboard: about a quarter of lookups blocked in one hour"></a>
+
+**What's next:** bring the Cisco 2960-X online (its VLANs are already set up, so the work laptop and smart-home devices each get their own network), add a rack UPS, move the M6 to 2.5 GbE, and add a Dell R730 as a second node.
+
 ## Projects
 
 - [Homelab On-Call Agent](https://github.com/n0rthstar88/homelab-oncall-agent): self-healing monitoring for Proxmox and Checkmk, with AI triage behind a security gatekeeper
