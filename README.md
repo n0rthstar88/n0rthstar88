@@ -1,6 +1,6 @@
 # Hi, I'm James
 
-I build and run my own infrastructure, then write the tools and documentation to keep it healthy. I'm looking for systems administration, infrastructure engineering and agentic AI roles.
+I'm a Technical Support Lead at Vero Networks, a fiber internet provider. At home I run a homelab and build the tools that keep it running, from monitoring agents to Linux desktop apps. I'm looking for systems administration, infrastructure engineering and agentic AI roles.
 
 🌐 [hufflabs.dev](https://hufflabs.dev) · 📫 [james@hufflabs.dev](mailto:james@hufflabs.dev)
 
