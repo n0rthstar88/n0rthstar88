@@ -59,6 +59,8 @@ Almost all of it runs on one GMKtec M6 Ultra mini PC (Ryzen 5 7640HS, 64 GB DDR5
   <a href="assets/projects/snap-picker.webp"><img align="top" src="assets/projects/snap-picker.webp" width="370" alt="Dragging a window to the top of the screen shows layout choices"></a>
   <a href="assets/projects/snap-snapped.webp"><img align="top" src="assets/projects/snap-snapped.webp" width="370" alt="Windows snapped into a three-pane layout"></a>
 
+- [Firefox BiDi MCP](https://github.com/n0rthstar88/firefox-bidi-mcp): lets AI agents drive your everyday Firefox through its built-in WebDriver BiDi remote control, with no extension to sign and an installer that keeps phishing protection and the popup blocker on. In Node.js, with headless browser tests
+
 - [Dark Magic](https://github.com/gravestench/dark-magic/pulls?q=is%3Apr+is%3Amerged+author%3An0rthstar88): 18 merged pull requests to an open-source Diablo II engine in Go and Lua
 
   <a href="assets/projects/darkmagic-code.webp"><img align="top" src="assets/projects/darkmagic-code.webp" width="370" alt="Dark Magic Lua code under the project's candle logo: kill experience scaled by level difference"></a>
